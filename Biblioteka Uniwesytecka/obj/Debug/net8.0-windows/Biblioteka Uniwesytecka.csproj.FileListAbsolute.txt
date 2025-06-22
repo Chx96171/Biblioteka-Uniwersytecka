@@ -1,0 +1,17 @@
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.csproj.GenerateResource.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.AssemblyInfoInputs.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.AssemblyInfo.cs
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.csproj.CoreCompileInputs.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.exe
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.deps.json
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.runtimeconfig.json
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.pdb
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.Główny_EKran.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.Logowanie.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\refint\Biblioteka Uniwesytecka.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.pdb
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.genruntimeconfig.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\ref\Biblioteka Uniwesytecka.dll
