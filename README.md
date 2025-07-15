@@ -19,4 +19,6 @@ Może dodawać użytkowników i ich kasować
 
 Ma dostęp do pełnej listy książek oraz może ją uzupełniać 
 
-Dane do logowan znajdują się w pliku txt
+Dane do logowan znajdują się w pliku LOGINY proszę otworzyć go w notatniku.
+
+Aplikacje można uruchomić skrótem pliku exe.
