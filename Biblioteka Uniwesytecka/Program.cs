@@ -13,8 +13,8 @@ namespace Biblioteka_Uniwesytecka
                 biblioteka.AddItem(new Podrecznik("C# Programming", "A. Developer", 2020, "123456789"));
                 biblioteka.AddItem(new Inne("Science Today", "B. Writer", 2022, 45));
 
-                Uzytkownik student = new Student("Jan Kowalski", "S123");
-                Uzytkownik admin = new Admin("Dr Anna Nowak", "Computer Science");
+                Uzytkownik student = new Student("JanKowalski", "S123", "Janek", "12");
+                Uzytkownik admin = new Admin("Nowak321", "ComputerScience", "Anna");
 
                 Zarzadzanie manager = new Zarzadzanie(biblioteka);
 
@@ -22,8 +22,15 @@ namespace Biblioteka_Uniwesytecka
                 manager.Pozyczone(student, "C#");
                 manager.Pozyczone(admin, "Science");
             }
+            DatabaseHelper.CreateDatabase();
+            DatabaseHelper.DodajPrzykladoweKsiazki();
+            DatabaseHelper.DodajUzytkownika("admin", "admin123", "Admin", "Jan Kowalski");
+            DatabaseHelper.DodajUzytkownika("Test1", "1234", "Student","Blazej");
+            DatabaseHelper.DodajUzytkownika("Test2", "1234", "Student", "Maciek");
             ApplicationConfiguration.Initialize();
             Application.Run(new Logowanie());
+          
         }
+
     }
 }

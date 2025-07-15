@@ -19,6 +19,6 @@ namespace Biblioteka_Uniwesytecka
             RokWydania = rokwydania;
         }
 
-        public abstract string ToString(); // polimorfizm
+        public abstract string ToString(); 
     }
 }

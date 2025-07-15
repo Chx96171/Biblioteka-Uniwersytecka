@@ -9,11 +9,17 @@ namespace Biblioteka_Uniwesytecka
 {
     public abstract class Uzytkownicy : Uzytkownik
     {
+        public string Login { get; private set; }
+        public string HasloHash { get; private set; }
         public string Imie { get; private set; }
+        public abstract string Rola { get; }
+
         protected List<Ksiazka> pozyczone = new List<Ksiazka>();
 
-        public Uzytkownicy(string imie)
+        public Uzytkownicy(string login, string hasloHash, string imie)
         {
+            Login = login;
+            HasloHash = hasloHash;
             Imie = imie;
         }
 

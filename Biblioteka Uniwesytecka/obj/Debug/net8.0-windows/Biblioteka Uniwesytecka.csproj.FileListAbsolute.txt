@@ -8,10 +8,47 @@ C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.runtimeconfig.json
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.dll
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.pdb
-C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.Główny_EKran.resources
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.Logowanie.resources
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.dll
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\refint\Biblioteka Uniwesytecka.dll
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.pdb
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.genruntimeconfig.cache
 C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\ref\Biblioteka Uniwesytecka.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.csproj.AssemblyReference.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Bibliote.7D59F042.Up2Date
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.StudentForm.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA TESTOWy\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.AdminForm.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.exe
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.deps.json
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.runtimeconfig.json
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\Biblioteka Uniwesytecka.pdb
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.csproj.AssemblyReference.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.AdminForm.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.Logowanie.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.StudentForm.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.csproj.GenerateResource.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.AssemblyInfoInputs.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.AssemblyInfo.cs
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.csproj.CoreCompileInputs.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Bibliote.7D59F042.Up2Date
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\refint\Biblioteka Uniwesytecka.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.pdb
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka Uniwesytecka.genruntimeconfig.cache
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\ref\Biblioteka Uniwesytecka.dll
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.DodajUzytkownikaForm.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.ZmianaHaslaForm.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.DodajKsiazkeForm.resources
+C:\Users\yagus\Desktop\BIBLIOTEKA MOCNA ALFA\Biblioteka Uniwesytecka\obj\Debug\net8.0-windows\Biblioteka_Uniwesytecka.ListaKsiazekForm.resources

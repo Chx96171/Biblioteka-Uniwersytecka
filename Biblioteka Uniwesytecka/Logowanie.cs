@@ -11,38 +11,52 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Biblioteka_Uniwesytecka;
-public partial class Logowanie : Form
+public partial class Logowanie : Form 
 {
     public Uzytkownik LoggedUser { get; private set; }
-
     public Logowanie()
     {
         InitializeComponent();
-        comboBoxUserType.Items.Add("Student");
-        comboBoxUserType.Items.Add("Admin");
     }
 
-    private void buttonLogin_Click(object sender, EventArgs e)
+    private void btnLogin_Click(object sender, EventArgs e)
     {
-        string imie = textBoxName.Text.Trim();
-        string type = comboBoxUserType.SelectedItem?.ToString();
+        string login = txtLogin.Text;
+        string haslo = txtHaslo.Text;
 
-        if (string.IsNullOrEmpty(imie) || string.IsNullOrEmpty(type))
+        var daneZBazy = DatabaseHelper.PobierzUzytkownikaZBazy(login, haslo);
+
+        if (daneZBazy != null)
         {
-            MessageBox.Show("Wprowadź dane");
-            return;
+            Uzytkownik uzytkownik = null;
+
+            if (daneZBazy.Rola == "Student")
+            {
+                uzytkownik = new Student(
+                    daneZBazy.Login,
+                    daneZBazy.HasloHash,
+                    daneZBazy.Imie,
+                    daneZBazy.StudentId
+                );
+
+                new StudentForm((Student)uzytkownik).Show();
+            }
+            else if (daneZBazy.Rola == "Admin")
+            {
+                uzytkownik = new Admin(
+                    daneZBazy.Login,
+                    daneZBazy.HasloHash,
+                    daneZBazy.Imie
+                );
+
+                new AdminForm((Admin)uzytkownik).Show();
+            }
+
+            this.Hide();
         }
-
-        // Tworzymy użytkownika
-        if (type == "Student")
-            LoggedUser = new Student(imie, "S001");
-        else if (type == "Admin")
-            LoggedUser = new Admin(imie, "Informatyka");
-
-        // Otwórz formularz główny
-        Główny_EKran glownyEkran = new Główny_EKran(LoggedUser);
-        this.Hide();
-        glownyEkran.ShowDialog();
-        this.Close();
+        else
+        {
+            MessageBox.Show("Nieprawidłowy login lub hasło");
+        }
     }
 }
